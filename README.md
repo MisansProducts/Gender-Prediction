@@ -24,3 +24,19 @@ Gender prediction project for Python 3.11.5 (conda)
 ## Credits
 
 Alex Akoopie - Creator
+
+# Analysis
+
+Evaluation metrics:
+
+```
+F1-Score:	0.9212242849974912
+Log Loss:	0.20243027084605875
+ROC-AUC:	0.9751247761229851
+```
+
+![ROC-AUC Graph](imgs/1_roc-auc.png)
+
+![Confusion Matrix Graph](imgs/2_confusion_matrix.png)
+
+![Decision Boundary Graph](imgs/3_decision_boundary.png)
